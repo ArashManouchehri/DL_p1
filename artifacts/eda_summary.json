@@ -1,0 +1,22 @@
+{
+ "share_leak": 0.8176750380517503,
+ "share_overlap": 0.15870433789954339,
+ "free_hours_total": 1597.1666666666667,
+ "free_runs_ge_48h": 10,
+ "free_runs_ge_72h_before_split": 8,
+ "r2_hour_of_day": 0.679945656124268,
+ "r2_hour_weekend": 0.7177865321295502,
+ "max_monthly_drift_m": 0.2727833985672958,
+ "noise_top2_share": 0.9844264301590725,
+ "noise_pc1_acf_5min": 0.8925647205557822,
+ "noise_pc1_acf_24h": 0.5999150598214946,
+ "flow_share_est": [
+  0.1267,
+  0.4535,
+  0.4198
+ ],
+ "flow_slope_sum": 1.2551551914619314,
+ "corr_inflow_amr": 0.4695471876599142,
+ "loglog_slope_norm_vs_D": 1.004314601852602,
+ "gradual_days_to_30pct_max": 31.46527777777778
+}

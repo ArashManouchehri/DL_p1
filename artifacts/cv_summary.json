@@ -1,0 +1,14 @@
+{
+ "thr": 0.6,
+ "n": 144,
+ "overall": {
+  "AUROC": 0.9090670732681954,
+  "detected": 20,
+  "n_leaks": 20,
+  "median_delay_h": 12.0,
+  "FA_days_per_30": 0.8955223880597015,
+  "n_eligible_days": 67,
+  "search_effort": 0.13232578032292658,
+  "top1": 0.7451398255706865
+ }
+}

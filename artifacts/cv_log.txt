@@ -1,0 +1,2 @@
+fold 0: test 2018-01-01..2018-03-14  train rows 83808
+   seed 0: detector 55175 rows/21889 params, localiser 39886 rows/14030 params, 45s

@@ -1,0 +1,3 @@
+design,AUROC,AUROC_visible,detected,delay_h,FA_per30,rule,train_s,params
+B1 non-neural: whitened-residual norm (6h) threshold,0.9055392903184872,0.9845379200580796,8/8,2.0416666666666665,0.0,p>=0.5 for 36 steps,,
+"B2 non-neural: logistic regression, same inputs/data",0.588902958609444,0.6072674182472606,8/8,8.0,0.0,p>=0.5 for 6 steps,4.070705890655518,
